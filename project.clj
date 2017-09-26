@@ -19,7 +19,9 @@
                  [reagent "0.6.0"]]
 
   :plugins [[lein-cljsbuild "1.1.6"]
-            [lein-environ "1.1.0"]]
+            [lein-environ "1.1.0"]
+            [lein-cljfmt "0.5.7"]]
+
 
   :min-lein-version "2.6.1"
 
