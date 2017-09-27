@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,400i');
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
@@ -36,6 +37,15 @@ body {
 	border-radius: 0.2em;
 	padding: 0.5em;
 	margin: 0 0.5rem 0.5rem 0.5em;
+}
+
+.btndelete {
+	cursor: pointer;
+	width: 50px;
+	background: #fff;
+	height: 20px;
+	border: none;
+	border-radius: 15px;
 }
 
 .card.editing {
